@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "Knowit_env\\Scripts\\python.exe",
+    "python.formatting.provider": "black"
+}
